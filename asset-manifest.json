@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/luy-react-project/static/css/main.becef81b.css",
-    "main.js": "/luy-react-project/static/js/main.e1e90d75.js",
+    "main.js": "/luy-react-project/static/js/main.03d9ce03.js",
     "static/js/453.c4ff90b8.chunk.js": "/luy-react-project/static/js/453.c4ff90b8.chunk.js",
     "static/media/about-me.jpg": "/luy-react-project/static/media/about-me.0098e0b1646df93396d2.jpg",
     "static/media/profile.jpg": "/luy-react-project/static/media/profile.0cb417267260fa602f02.jpg",
@@ -9,11 +9,11 @@
     "static/media/project-pharmacy.jpg": "/luy-react-project/static/media/project-pharmacy.87357a1ff435f1ca8ecf.jpg",
     "index.html": "/luy-react-project/index.html",
     "main.becef81b.css.map": "/luy-react-project/static/css/main.becef81b.css.map",
-    "main.e1e90d75.js.map": "/luy-react-project/static/js/main.e1e90d75.js.map",
+    "main.03d9ce03.js.map": "/luy-react-project/static/js/main.03d9ce03.js.map",
     "453.c4ff90b8.chunk.js.map": "/luy-react-project/static/js/453.c4ff90b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.becef81b.css",
-    "static/js/main.e1e90d75.js"
+    "static/js/main.03d9ce03.js"
   ]
 }
